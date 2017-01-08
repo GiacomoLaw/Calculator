@@ -10,7 +10,6 @@ var num2 = parseInt(form.elements["y"].value);
 	
 	//get operator
 var operator = parseInt(form.elements["op"].value);
-}
 
 	//set output depending on operator
 switch(operator)
